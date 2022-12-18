@@ -3,8 +3,6 @@ extraParams.hxml
 -main TestAll
 -debug
 -lib utest
--lib safety
--lib hxassert
 -cp ./test
 
 --jvm bin/main.jar

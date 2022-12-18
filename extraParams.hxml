@@ -1,4 +1,6 @@
 -lib deep_equal
 -lib tink_core
+-lib safety
+-lib hxassert
 
 --macro nullSafety("wing", Strict)
